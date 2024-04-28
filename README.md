@@ -1,5 +1,5 @@
 Project Overview:
-
+This was my first ever programming hobby project. 
 This Python code implements a Sudoku game with additional rules regarding odd and even numbers. Developed by David Ribeiro, this project aims to provide an interactive Sudoku experience with extended gameplay mechanics.
 
 Game Features:
