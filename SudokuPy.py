@@ -1,7 +1,7 @@
 import pygame as py
 from datetime import datetime
 import time
-#Project by David Ribeiro, group 300, 57658
+#Project by David Ribeiro
 backgroundcolor = (210, 210, 210)
 displaywin = py.display.set_mode((550, 600))
 
